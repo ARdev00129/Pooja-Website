@@ -1,0 +1,64 @@
+.div{
+    text-align: center;
+    background-image: url(abstract-colorful-geometric-shape-background-modern-color-background-for-your-website-vector.jpg);
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid black;
+    border-radius: 50;
+    padding:115px;
+    border-spacing: 50px;
+    
+
+}
+body{
+  color: #000;
+    margin:0;
+    background-image: url(Contact.png);
+    background-position: center;
+    background: position y 80px;
+    
+    
+   
+}
+div,a{
+    text-decoration: none;
+    padding:20px;
+    color:white;
+    border-spacing: 40px;
+}
+
+a:hover{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red  ;
+    border: 2px solid red;
+    border-radius: 30px;
+}
+
+a{
+    border: 2px solid white;
+    word-spacing: 6px;
+    border-radius: 30px;
+    padding:20;
+}
+
+h3, p{
+    color:red;
+    
+    text-decoration: double;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p4{
+    text-align: center;
+    margin-left:50;
+    height: 30;}
+#division{
+    border:3px solid wheat;
+    border-radius: 40px;
+    width: 800px;
+    background-color: gray;
+}
+h3{
+    text-align: center;
+}
